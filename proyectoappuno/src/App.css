@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+
+.Buscador {
+  min-height: 40px;
+  height: auto;
+  border: 1px solid #ccc;
+  overflow-y: auto;
+}
